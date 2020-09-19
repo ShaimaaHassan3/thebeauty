@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Beauty</string>
+    <string name="registe">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email_Adress</string>
+    <string name="pass">Password</string>
+</resources>
